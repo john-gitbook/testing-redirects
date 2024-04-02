@@ -4,10 +4,10 @@
 
 * [Page 1](README.md)
 
-## Group 2
+## Second Group
 
 * [Page 2](second-group/page-2.md)
 
-## Group 3
+## Third Group
 
 * [Page 3](third-group/page-3.md)
