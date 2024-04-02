@@ -1,10 +1,10 @@
 # Table of contents
 
-## Group 1
+## First Group
 
 * [Page 1](README.md)
 
-## Second Group
+## Group 2
 
 * [Page 2](second-group/page-2.md)
 
