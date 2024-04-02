@@ -6,8 +6,8 @@
 
 ## Group 2
 
-* [Page 2](group-2/page-2.md)
+* [Page 2](second-group/page-2.md)
 
 ## Group 3
 
-* [Page 3](group-3/page-3.md)
+* [Page 3](third-group/page-3.md)
