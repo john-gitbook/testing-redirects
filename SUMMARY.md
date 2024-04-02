@@ -4,7 +4,7 @@
 
 * [Page 1](README.md)
 
-## Group 2
+## Second Group
 
 * [Page 2](second-group/page-2.md)
 
