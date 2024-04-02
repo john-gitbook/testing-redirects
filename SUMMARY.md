@@ -4,9 +4,9 @@
 
 * [Page 1](README.md)
 
-## Second Group
+## Group 2
 
-* [Page 2](second-group/page-2.md)
+* [Page 2](group-2/page-2.md)
 
 ## Third Group
 
