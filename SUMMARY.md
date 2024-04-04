@@ -1,13 +1,13 @@
 # Table of contents
 
-## 🙃 First Group
+## 🍊 Oranges
 
-* [Page 1](README.md)
+* [🍹 Juice](README.md)
 
-## Second Group <a href="#apple" id="apple"></a>
+## Apples <a href="#apple" id="apple"></a>
 
-* [Page 2](apple/page-2-2.md)
+* [🥧 Pie](apple/pie.md)
 
-## Third Group
+## 🍓 Strawberry
 
-* [Page 3](third-group/page-3.md)
+* [🍨 Ice Cream](strawberry/ice-cream.md)
