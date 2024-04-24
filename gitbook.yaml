@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  group4: support.md
+  page4: group-2/page-2.md
