@@ -3,3 +3,4 @@ root: ./
 redirects:
   group-5/page-5: group-2/page-2.md
   help: group-2/page-2.md
+  group-3/page-3: group-2/page-2.md
