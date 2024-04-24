@@ -1,6 +1,6 @@
 # Table of contents
 
-## First Group
+## Group 1
 
 * [Page 1](README.md)
 
@@ -10,4 +10,4 @@
 
 ## Group 3
 
-* [Page 3](third-group/page-3.md)
+* [Page 3](group-3/page-3.md)
