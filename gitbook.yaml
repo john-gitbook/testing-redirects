@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+  group4: support.md
