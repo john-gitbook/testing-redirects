@@ -4,10 +4,10 @@
 
 * [Page 1](README.md)
 
-## Second Group <a href="#apple" id="apple"></a>
+## Group 2
 
-* [Page 2](apple/page-2-2.md)
+* [Page 2](group-2/page-2.md)
 
-## Third Group
+## Group 3
 
 * [Page 3](third-group/page-3.md)
