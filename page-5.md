@@ -2,7 +2,29 @@
 
 
 
+{% hint style="danger" %}
 
+
+### This is a H2 heading
+
+This is a line
+
+This is an inline <img src=".gitbook/assets/notification (1).png" alt="" data-size="line"> image
+
+* This is a second <mark style="color:orange;background-color:purple;">line using an unordered list and color</mark>
+{% endhint %}
+
+{% hint style="info" %}
+### This is a H2 heading
+
+This is a line
+
+This is an inline <img src="broken-reference" alt="" data-size="line"> image
+
+* This is a second <mark style="color:orange;background-color:purple;">line using an unordered list and color</mark>
+{% endhint %}
+
+### Representation in Markdown
 
 {% hint style="info" %}
 
