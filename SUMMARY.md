@@ -11,12 +11,3 @@
 ## Group 3
 
 * [Page 3](group-3/page-3.md)
-
-***
-
-* [mermaid](mermaid.md)
-* [example](example.md)
-* [mermaid 1](mermaid-1.md)
-* [merm](merm.md)
-* [mermaid](mermaid-2.md)
-* [inline](inline.md)
