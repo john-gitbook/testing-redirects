@@ -19,3 +19,4 @@
 * [mermaid 1](mermaid-1.md)
 * [merm](merm.md)
 * [mermaid](mermaid-2.md)
+* [inline](inline.md)
