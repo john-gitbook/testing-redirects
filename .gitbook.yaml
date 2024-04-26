@@ -1,4 +1,4 @@
-root: ./
+
 
 redirects:
   hi: ./group-2/page-2.md
