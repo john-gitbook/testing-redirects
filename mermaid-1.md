@@ -1,10 +1,7 @@
 # mermaid 1
 
-```mermaid
-  graph TD;
+{% @mermaid/diagram content="  graph TD;
       A-->B;
       A-->C;
       B-->D;
-      C-->D;
-```
- 
+      C-->D;" %}
