@@ -14,5 +14,8 @@
 
 ***
 
-* [Page 4](page-4.md)
 * [mermaid](mermaid.md)
+* [example](example.md)
+* [mermaid 1](mermaid-1.md)
+* [merm](merm.md)
+* [mermaid](mermaid-2.md)
