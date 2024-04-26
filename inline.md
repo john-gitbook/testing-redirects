@@ -1,1 +1,1 @@
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+this is an image ![image alt ><](/center-image.jpg) here it is
