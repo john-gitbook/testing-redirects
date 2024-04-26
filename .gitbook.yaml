@@ -1,6 +1,6 @@
 root: ./
 
 redirects:
-  group-5/page-5: ./group-2/page-2.md
-  hey: ./group-2/page-2.md
+  hi: ./group-2/page-2.md
+  hey: group-2/page-2.md
   
