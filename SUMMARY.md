@@ -9,7 +9,6 @@
 
 ## Blue Group
 
-* [🔵 Blue 1](blue-group/blue-1.md)
 * [🔵 Blue 2](blue-group/blue-2.md)
 
 ## Black Group
