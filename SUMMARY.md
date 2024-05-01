@@ -1,13 +1,18 @@
 # Table of contents
 
-## Group 1
+* [Page](README.md)
+* [Page 1](page-1.md)
 
-* [Page Name](README.md)
+## Red group
 
-## Group 2
+* [🔴 Red 1](red-group/red-1.md)
+* [🔴 Red 2](red-group/red-2.md)
 
-* [Page 2](group-2/page-2.md)
+## Blue Group
 
-## Group 3
+* [🔵 Blue 1](blue-group/blue-1.md)
+* [🔵 Blue 2](blue-group/blue-2.md)
 
-* [Page 3](group-3/page-3.md)
+## Black Group
+
+* [⚫ All Pages](black-group/all-pages.md)
