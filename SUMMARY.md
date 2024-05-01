@@ -2,7 +2,7 @@
 
 ## Group 1
 
-* [Page 1](README.md)
+* [Page 1ish](README.md)
 
 ## Group 2
 
