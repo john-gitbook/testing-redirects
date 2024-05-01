@@ -1,8 +1,8 @@
 root: ./
 
 redirects:
-  hi: black-group/all-pages.md
-  hey: black-group/all-pages.md
   johns-knowledge-base/blue-group/blue-1: black-group/all-pages.md
+  blue-group/blue-2: black-group/all-pages.md
+  
 
   
