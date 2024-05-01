@@ -6,7 +6,7 @@
 
 ## Group 2
 
-* [Page 2](group-2/page-2.md)
+* [Page 2izh](group-2/page-2.md)
 
 ## Group 3
 
