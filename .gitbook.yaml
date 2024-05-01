@@ -3,7 +3,7 @@ root: ./
 redirects:
   johns-knowledge-base/blue-group/blue-1: black-group/all-pages.md
   blue-group/blue-2: black-group/all-pages.md
-  blue-2: black-group/all-pages.md
+  
   
 
   
