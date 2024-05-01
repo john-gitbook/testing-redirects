@@ -1,7 +1,7 @@
 root: ./
 
 redirects:
-  hi: ./group-2/page-2.md
-  hey: group-2/page-2.md
+  hi: black-group/all-pages.md
+  hey: black-group/all-pages.md
 
   
