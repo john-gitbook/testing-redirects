@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚫ check](check.md)
+* [check](check.md)
 * [Readme Page](README.md)
 
 ## Red group
