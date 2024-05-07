@@ -1,7 +1,7 @@
 # Table of contents
 
-* [check](check.md)
-* [Readme Page](README.md)
+* [⚫ check](README.md)
+* [Readme Page](<README (1).md>)
 
 ## Red group
 
@@ -11,4 +11,3 @@
 ## Black Group
 
 * [⚫ All Pages](black-group/all-pages.md)
-
