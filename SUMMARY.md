@@ -1,7 +1,7 @@
 # Table of contents
 
 * [⚫ check](README.md)
-* [Readme Page](<README (1).md>)
+* [Readme Page](readme-page.md)
 
 ## Red group
 
