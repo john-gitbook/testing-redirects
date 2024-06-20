@@ -1,7 +1,8 @@
 
 
 redirects:
+  test: README.md
   hi: ./group-2/page-2.md
-  hey: group-2/page-2.md
-  sup: group-2/page-2.md
+  hello: group-2/page-2.md
+  
   
